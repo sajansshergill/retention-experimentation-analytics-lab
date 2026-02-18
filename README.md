@@ -1,2 +1,2 @@
-# retention-experimentation-analytics-lab
-Buyer Retention &amp; Experimentation Analytics Lab
+# Buyer Retention &amp; Experimentation Analytics Lab
+

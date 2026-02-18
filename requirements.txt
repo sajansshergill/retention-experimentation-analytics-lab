@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+numpy
+scipy
+statsmodels
+sqlalchemy
+psycopg2-binary
+python-dotenv
+streamlit
+plotly
+scikit-learn
